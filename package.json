@@ -1,0 +1,24 @@
+{
+    "name": "serverless-telegram-bot-example",
+    "version": "1.0.0",
+    "author": "José Gilberto Mullor <gilber@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "node-fetch": "^2.6.1"
+    },
+    "devDependencies": {
+        "@types/aws-lambda": "^8.10.61",
+        "aws-sdk": "^2.678.0",
+        "serverless": "^1.83.0",
+        "serverless-domain-manager": "^3.3.2",
+        "serverless-dotenv-plugin": "^2.4.2",
+        "serverless-plugin-typescript": "^1.1.9",
+        "serverless-webpack": "^5.3.1",
+        "ts-loader": "^8.0.3",
+        "ts-node": "^9.0.0",
+        "typescript": "^4.0.3",
+        "webpack": "^4.43.0",
+        "webpack-bundle-analyzer": "^3.7.0",
+        "webpack-node-externals": "^1.7.2"
+    }
+}
