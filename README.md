@@ -1,5 +1,5 @@
 # Become aware of your app events in Telegram
-> ### Example repository for [this article](https://sonneiltech.com/2020/09/become-aware-of-your-app-events-in-telegram/(opens%20in%20a%20new%20tab)) on Sonneil Tech Blog :)
+> ### Example repository for [this article](https://www.sonneiltech.com/2020/10/become-aware-of-your-app-events-in-telegram/) on Sonneil Tech Blog :)
 
 Sure you have used multiple services that allows you send app notifications, like [Pushover](https://pushover.net/) or even [IFTTT](https://ifttt.com/), but in this case, we are going to use Telegram to send notifications about what is happening in your application.
 
